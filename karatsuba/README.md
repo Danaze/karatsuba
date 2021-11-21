@@ -1,6 +1,8 @@
-python package for multiplication (recursive algorithm)
-installation:
-pip install karatsuba-dagne
-usage:
-from karatsuba import karatsuba
+python package for multiplication (recursive algorithm) <br />
+<br />
+installation: <br />
+pip install karatsuba-dagne <br />
+<br />
+usage: <br />
+from karatsuba import karatsuba <br />
 karatsuba(x,y)
